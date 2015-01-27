@@ -1,7 +1,7 @@
 Package: ordijuice
 Type: Package
 Title: Unconstrained ordinations of vegetation data in JUICE program
-Version: 3.3.9
+Version: 3.3.10
 Date: 2015-01-27
 Author: David Zeleny
 Maintainer: David Zeleny <zeleny@sci.muni.cz>
