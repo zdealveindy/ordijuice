@@ -1,0 +1,11 @@
+Package: ordijuice
+Type: Package
+Title: Unconstrained ordinations of vegetation data in JUICE program
+Version: 3.3.9
+Date: 2015-01-27
+Author: David Zeleny
+Maintainer: David Zeleny <zeleny@sci.muni.cz>
+Description: R library not used for end user, but only to be run from
+        JUICE program
+License: What license is it under?
+LazyLoad: yes
