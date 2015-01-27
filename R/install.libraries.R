@@ -1,7 +1,6 @@
-install.libraries <-
-function  (libs = 'all')
+install.libraries <- function  (libs)
 {
-  if (libs == 'all') install.packages (pkg=c('vegan', 'mgcv', 'rgl', 'tkrgl', 'tcltk', 'geometry'), repos = "http://cran.r-project.org")
+  install.packages (pkg = not.installed)
   if (libs == 'ordijuice') {detach (package:ordijuice); install.packages ('ordijuice', contriburl='http://sci.muni.cz/botany/zeleny/R/windows/contrib/R-2.8.1')}
 }
 
